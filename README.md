@@ -1,3 +1,4 @@
 # LedWeather
+<img src="icon.png" alt="icon">
 
 Weather monitoring systems.
